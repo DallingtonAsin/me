@@ -1,8 +1,6 @@
 ## Introduction
 
-You can use the [editor on GitHub](https://github.com/DallingtonAsin/me/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dallington Asingwire is a graduand with First Class Honours of CGPA 4.53 in B.Sc Software Engineering, Makerere University. He is passionate about technology, computer programming and creating innovative software products. He has worked on various software projects. He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.
 
 ### Markdown
 
